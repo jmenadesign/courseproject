@@ -16,6 +16,6 @@ por lo tanto, a parte de poder utilizar los atajos ya enseñados
 
 [enlace](https://www.google.es)
 
-[imagen](https://url.de.la.imagen.jpg)
+![imagen](https://url.de.la.imagen.jpg)
 
 Buscar cheatscheat markdown o hackmd para crearlo directamente y copiarlo
